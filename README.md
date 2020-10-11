@@ -1,9 +1,9 @@
 # Nand2Tetris
 
-The following repository contains my implementation of the Nand to Tetris course excercises.
+The following repository contains my implementation of the Nand to Tetris course exercises.
 Any additional info can be found here: https://www.nand2tetris.org/
 
-Excercises summary:
+Exercises summary:
 
 * Project 1: Boolean Logic
 * Project 2: Boolean Arithmetic
